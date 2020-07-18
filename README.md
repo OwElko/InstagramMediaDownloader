@@ -1,2 +1,2 @@
 # InstagramMediaDownloader
-![InstagramDownloader](https://web-capture.net/picture.php?pic_index=1&presentation_method=inline)
+![InstagramDownloader](https://i.imgur.com/86dEQ04.jpg)
